@@ -1,0 +1,17 @@
+.container{
+    display: flex;
+    border: 10px solid goldenrod;
+    height: 100vh;
+}
+.box1{background: green;}
+.box2{background: greenyellow;}
+.box3{background: grey;}
+.box4{background:magenta ;}
+.box5{background: mediumseagreen;}
+.box6{background: midnightblue;}
+.box7{background: olive;}
+.box8{background: orange;}
+.box9{background: palevioletred;}
+.box10{background: red;
+
+}
