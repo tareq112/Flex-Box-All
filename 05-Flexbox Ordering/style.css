@@ -1,0 +1,22 @@
+*{
+    margin:0;
+    padding: 0;
+    box-sizing: border-box;
+    font-size: 50px;
+}
+
+/*--Flex container-*/
+.container{
+    display: flex;
+    border: 10px solid goldenrod;
+}
+.box1{background: rgb(24, 160, 130);}
+.box2{background: rgb(156, 194, 186);}
+.box3{background: rgb(24, 160, 130);}
+.box4{background: rgb(189, 218, 31);}
+.box5{background: rgb(14, 177, 27);}
+.box6{background: rgb(214, 147, 147);}
+.box7{background: rgb(207, 22, 161);}
+.box8{background: rgb(24, 56, 160);}
+.box9{background: rgb(24, 160, 35);}
+.box10{background: rgb(117, 24, 160);}
